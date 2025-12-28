@@ -326,6 +326,23 @@ https://www.youtube.com/watch?v=gzEvIDwE7ew
 "Well once I found the altar I died but it was a cool fight"
 ![Altar or shrine boss fight](images/RiskOfRain/15.jpg)
 
+## Inscryption
+
+"I've been really hooked in these deck building roguelike's!!!!! I'm so happy I got 2 more to go!!!"
+"This one seems to have an amazing art style I'm very curious!"
+
+"Wait a sec I can't start new game??"
+[1.png]
+
+"They explain the click and hold system at the start of the game that's soo cool!!!"
+"Omg the start looks siiiiccckkk!!!"
+[2.jpg]
+[3.png]
+
+"The tutorial is clear, feels a little like Hearthstone battleground"
+"Also the base for character feels soooo cool"
+[4.jpg]
+
 
 # My rOGUELIKE
 
@@ -334,5 +351,5 @@ https://www.youtube.com/watch?v=gzEvIDwE7ew
 - rooms gotta be big  
 - Auto lock on to help power fantasy  
 - Deck building with weapons abilities and ally deployables?
-- New options over raw stat upgrades
+- New options over raw stat upgrades, I hope to hold onto the idea that you can only get better through skill but maybe there is a way to give a sense of in game progression without making the game directly easier
 - Cards can chain into other overpowered combo's
