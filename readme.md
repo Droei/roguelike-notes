@@ -332,16 +332,19 @@ https://www.youtube.com/watch?v=gzEvIDwE7ew
 "This one seems to have an amazing art style I'm very curious!"
 
 "Wait a sec I can't start new game??"
-[1.png]
+![Locked new game screen](images/Inscryption/1.png)
 
 "They explain the click and hold system at the start of the game that's soo cool!!!"
 "Omg the start looks siiiiccckkk!!!"
-[2.jpg]
-[3.png]
+![Click and hold interaction tutorial](images/Inscryption/2.jpg)
+![Dark cabin game start scene](images/Inscryption/3.png)
 
 "The tutorial is clear, feels a little like Hearthstone battleground"
 "Also the base for character feels soooo cool"
-[4.jpg]
+![Card battle tutorial](images/Inscryption/4.jpg)
+![Player cabin perspective](images/Inscryption/5.jpg)
+![Atmospheric board setup](images/Inscryption/6.jpg)
+
 
 
 # My rOGUELIKE
