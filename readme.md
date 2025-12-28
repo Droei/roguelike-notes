@@ -341,9 +341,12 @@ https://www.youtube.com/watch?v=gzEvIDwE7ew
 
 "The tutorial is clear, feels a little like Hearthstone battleground"
 "Also the base for character feels soooo cool"
-![Card battle tutorial](images/Inscryption/4.jpg)
-![Player cabin perspective](images/Inscryption/5.jpg)
-![Atmospheric board setup](images/Inscryption/6.jpg)
+![](images/Inscryption/4.jpg)
+![](images/Inscryption/5.jpg)
+![](images/Inscryption/6.jpg)
+
+"I'm really gonna like this game it looks soooooo pleasing"
+![](images/Inscryption/7.jpg)
 
 
 
