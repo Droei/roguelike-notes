@@ -118,7 +118,7 @@
 ![Inside special room](images/BindingOfIsaac/8.JPEG)
 
 "Well I just lost all my money for this"
-![Money lost to trap or gamble](images/BindingOfIsaac/9.MP4)
+![Money lost to trap or gamble](images/BindingOfIsaac/9.gif)
 
 "Still didn't get through the first level man"
 
